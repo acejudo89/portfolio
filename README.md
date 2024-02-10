@@ -1,2 +1,2 @@
 # portfolio
-Here can you find my academyc projects developed during the Bootcamp I'm cursing for Data Analytics
+Here you can find my academyc projects developed during the Bootcamp for Data Analytics I've finished in 2023.
